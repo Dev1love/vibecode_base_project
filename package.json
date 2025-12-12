@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-beginner-project",
+  "version": "1.0.0",
+  "description": "Простой тестовый проект для новичков в Node.js и Vibe Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "hello": "node index.js",
+    "test": "node utils/calculator.js"
+  },
+  "keywords": [
+    "beginner",
+    "nodejs",
+    "vibecode",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "MIT"
+}
